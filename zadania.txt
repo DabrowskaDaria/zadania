@@ -1,0 +1,5 @@
+dodaj
+zmien
+usun WYKONANE
+wymien
+usun WYKONANE
